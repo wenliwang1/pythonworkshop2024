@@ -17,4 +17,5 @@ grouptwo = set(["pecan", "walnut","peach","pear"])
 
 matplotlib_venn.venn2((groupone, grouptwo), ("Park 1 Trees", "Park 2 Trees"))
 
+#show figures
 plt.show()
